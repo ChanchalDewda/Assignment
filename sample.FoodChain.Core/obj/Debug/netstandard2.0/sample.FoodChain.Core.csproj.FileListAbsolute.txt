@@ -1,0 +1,17 @@
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\bin\Debug\netstandard2.0\sample.FoodChain.Core.deps.json
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\bin\Debug\netstandard2.0\sample.FoodChain.Core.dll
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\bin\Debug\netstandard2.0\sample.FoodChain.Core.pdb
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.csproj.CoreCompileInputs.cache
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.AssemblyInfoInputs.cache
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.AssemblyInfo.cs
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.dll
+D:\personal\FoodChain\Sample.FoodChain\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.pdb
+D:\personal\Assignment\sample.FoodChain.Core\bin\Debug\netstandard2.0\sample.FoodChain.Core.deps.json
+D:\personal\Assignment\sample.FoodChain.Core\bin\Debug\netstandard2.0\sample.FoodChain.Core.dll
+D:\personal\Assignment\sample.FoodChain.Core\bin\Debug\netstandard2.0\sample.FoodChain.Core.pdb
+D:\personal\Assignment\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.csprojAssemblyReference.cache
+D:\personal\Assignment\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.csproj.CoreCompileInputs.cache
+D:\personal\Assignment\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.AssemblyInfoInputs.cache
+D:\personal\Assignment\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.AssemblyInfo.cs
+D:\personal\Assignment\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.dll
+D:\personal\Assignment\sample.FoodChain.Core\obj\Debug\netstandard2.0\sample.FoodChain.Core.pdb
